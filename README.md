@@ -1,2 +1,2 @@
 # Sockets-Python
-Simple method to use Python Sockets. (HTTP Protocol)
+Simple method to use Python Sockets for web Crawling
